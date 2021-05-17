@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024714319659",
+    "firebase_url": "https://trota-8c9f3.firebaseio.com",
+    "project_id": "trota-8c9f3",
+    "storage_bucket": "trota-8c9f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024714319659:android:fb8b264883aa3a146f076e",
+        "android_client_info": {
+          "package_name": "com.virosample3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024714319659-lmt1ci8gh2aglp2d88cr9th5vei343ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYGO8DoGtW-v8lEdDbtagGNp5ogtAA8ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024714319659-lmt1ci8gh2aglp2d88cr9th5vei343ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
